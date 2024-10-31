@@ -1,7 +1,7 @@
 # Letra-de-musica-com-API
 Consulta de letra de música com API.<br> 
 Uma aplicação Web que utiliza uma API de um site de músicas para mostrar letras de músicas.<br>
-[![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
+[![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nAnclockckup)
 ## Na Pasta
 ><p>Install Poetry.</p>
 ><p><strong><em>pipx install poetry</em></strong>.</p>
